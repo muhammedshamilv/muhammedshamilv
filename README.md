@@ -6,7 +6,7 @@
 <h3>I am a Fullstack Developer specialized in Python(Django,Flask) React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=afreedicp&color=blue" alt="afreedi" /> 
+	<img src="https://komarev.com/ghpvc/?username=muhammedshamilv&color=blue" alt="shamil" /> 
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreedicp" alt="afreedicp" /></a> </p>
 
