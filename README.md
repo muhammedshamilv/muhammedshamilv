@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://github.com/muhammedshamilv** or **shamilrjv@gmail.com**
 
-- 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammed-shami-604274228](https://www.linkedin.com/in/muhammed-shami-604274228)
 
 - ⚡ Fun fact **I think i am very funny**
 
