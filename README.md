@@ -3,7 +3,7 @@
 ### Hello World! This is [Muhammed shamil v](https://github.com/muhammedshamilv) 👋
 
 
-<h3>I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
+<h3>I am a Fullstack Developer specialized in Python(Django,Flask) React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=afreedicp&color=blue" alt="afreedi" /> 
