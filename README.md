@@ -1,6 +1,6 @@
 <img align="left" width="200" height="200" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
 
-### Hello World! This is [Muhammed shamil v](https://github.com/afreedicp) 👋
+### Hello World! This is [Muhammed shamil v](https://github.com/muhammedshamilv) 👋
 
 
 <h3>I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
