@@ -51,14 +51,14 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedshamilv&show_icons=true&locale=en&layout=compact" alt="muhammedshamilv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreedicp&show_icons=true&locale=en" alt="afreedicp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedshamilv&show_icons=true&locale=en" alt="muhammedshamilv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afreedicp&" alt="afreedicp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedshamilv&" alt="muhammedshamilv" /></p>
 
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=afreedicp&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreedicp&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammedshamilv&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshamilv&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
