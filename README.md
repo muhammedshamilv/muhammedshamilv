@@ -8,7 +8,7 @@
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=muhammedshamilv&color=blue" alt="shamil" /> 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedshamilv" alt="shamil" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=muhammedshamilv" alt="shamil" /> </p>
 
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 Currently working in HAMON TECHNOLOGIES  https://hamon.in
