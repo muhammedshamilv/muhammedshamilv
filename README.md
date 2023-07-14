@@ -15,11 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammedshamilv?tab=repositories](https://github.com/muhammedshamilv?tab=repositories)
 
-- 📝 I regularly write articles on JavaScript [https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/](https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/)
+- 💬 Ask me about **Python,React JS,Express JS,CSS, HTML, Node, Javascript**
 
-- 💬 Ask me about **React JS,Express JS,CSS, HTML, Node, Javascript**
-
-- 📫 How to reach me **https://github.com/afreedicp** or **afreedicp@gmail.com**
+- 📫 How to reach me **https://github.com/muhammedshamilv** or **shamilrjv@gmail.com**
 
 - 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
