@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=muhammedshamilv" alt="shamil" /> </p>
 
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 Currently working in HAMON TECHNOLOGIES  https://hamon.in
+- 🔭 Currently working at HAMON TECHNOLOGIES  https://hamon.in
   
 - 👨‍💻 All of my projects are available at **[https://github.com/muhammedshamilv?tab=repositories](https://github.com/muhammedshamilv?tab=repositories)**
 
