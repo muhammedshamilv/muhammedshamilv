@@ -3,7 +3,7 @@
 ### Hello World! This is [Muhammed shamil v](https://github.com/muhammedshamilv) 👋
 
 
-<h3>I am a Fullstack Developer specialized in Python(Django,Flask) React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams. I hold a Bachlors Degree in Computer Science.</h3>
+<h3>I am a Fullstack Developer specializing in Python (Django, Flask), React.js, and Express.js, focused on delivering seamless user experiences and collaborating efficiently with cross-functional teams. I hold a Bachelor’s degree in Computer Science.</h3>
 <br>
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=muhammedshamilv&color=blue" alt="shamil" /> 
@@ -15,7 +15,7 @@
   
 - 👨‍💻 All of my projects are available at **[https://github.com/muhammedshamilv?tab=repositories](https://github.com/muhammedshamilv?tab=repositories)**
 
-- 💬 Ask me about **Python,React JS,Express JS,CSS, HTML, Node, Javascript**
+- 💬 Ask me about **Python,React JS,Express JS,CSS, HTML, Node, Javascript, AWS, CI/CD**
 
 - 📫 How to reach me **https://github.com/muhammedshamilv** or **shamilrjv@gmail.com**
 
